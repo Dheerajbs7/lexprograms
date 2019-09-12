@@ -16,4 +16,3 @@ printf("Vowel and Consonent count are : %d and %d respectivly",v,c);
 int yywrap(){
 return 1;
 }
-~
